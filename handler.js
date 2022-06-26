@@ -709,7 +709,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Hay Deck 🗿👋').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang 1'))
-                                this.sendButtonImg(id, pp, text, "©𝚈𝚊𝚗𝚗 𝚃𝚞𝚛𝚞", "Apa Deck 🗿?", "wkwk", null)
+                                this.sendButtonImg(id, pp, text, "© ᴄʏʙᴇʀʙᴏᴛ-ᴍᴅ", "Oy Deck 🗿", "wkwk", null)
                                 }
                     }
                 }
