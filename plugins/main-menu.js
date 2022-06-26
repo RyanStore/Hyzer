@@ -304,7 +304,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "⬣━〔Created By : Yann | Turu 〕━⬣\n time created on : 15-06-2022",
+            footerText: "⬣━〔I am : ᴄʏʙᴇʀʙᴏᴛ-ᴍᴅ〕━⬣\n time created on : 15-06-2022",
             mtype: 'listMessage',
             sections: [
               {
