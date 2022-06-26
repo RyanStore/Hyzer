@@ -18,7 +18,6 @@ const defaultMenu = {
 ╠➪ Limit : *%limit Limit*
 ╠➪ Role : *%role*
 ╠➪ Level : *%level (%exp / %maxexp)*
-════════════
 ╠➪ Total Exp : *%totalexp Xp Secara Total*
 ╚═════════════════════❏
 
